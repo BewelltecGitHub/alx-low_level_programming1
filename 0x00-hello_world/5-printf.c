@@ -1,7 +1,7 @@
 #include <stdio>
 /**
- * main - My first program that displays line using the function printf
- * Return: 0 (successful)
+ * main - A program which prints line using the function printf.
+ * Return: 0 (means successful)
  */
 int main(void)
 {
