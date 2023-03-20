@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
- * Discription; 'Show is a number is positive or negative'
+ * main - a program to show if a number is positive or negative
  * Return 0 (success)
  */
 int main(void)
